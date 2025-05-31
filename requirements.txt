@@ -1,0 +1,15 @@
+pytest
+black
+isort
+pandas
+scikit-learn
+mlflow
+shap
+matplotlib
+
+
+
+
+
+
+
